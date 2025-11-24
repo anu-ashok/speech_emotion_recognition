@@ -12,6 +12,22 @@
 ✔️ Live frontend built with React.js
 ✔️ Backend built with Flask (Python)
 
+# MODEL ARCHITECTURE
+
+#The LSTM model used:
+
+#Input shape: (40 MFCCs, 1)
+
+#LSTM Layer (256 units)
+
+#Dense Layers: 128 → 64
+
+#Activation: ReLU
+
+#Dropout: 0.2
+
+#Output Layer: Softmax (7 classes)
+
 
 
 #link for dataset:- https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
