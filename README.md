@@ -3,7 +3,8 @@
 
 #see only app.py(FLASK) , app.js(REACT FRONTEND) , main.py(LSTM MODEL TRAINED) files for codes 
 
-#Demo Features
+#DEMO FEATURES
+
 
 ✔️ Record your own voice using the browser microphone
 ✔️ Upload .wav / .mp3 / .webm / .ogg audio files
